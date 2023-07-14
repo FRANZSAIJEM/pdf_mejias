@@ -26,15 +26,122 @@ class ClientSeeder extends Seeder
                 'initial_deposit' => 10000
             ],
             [
-                'last_name' => 'Cenita',
-                'first_name' => 'Zeus Gyro',
-                'middle_name' => 'Mejias',
-                'address' => ' Purok 4. Cagayan, Inabanga, Bohol',
-                'birth_date' => '1996-11-03',
-                'phone_number' => '09307665033',
-                'email' => 'zeusgyro@gmail.com',
+                'last_name' => 'Mejias',
+                'first_name' => 'Francis Michael',
+                'middle_name' => 'Cabrera',
+                'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+                'birth_date' => '2002-7-8',
+                'phone_number' => '09606765143',
+                'email' => 'mikoremixes@gmail.com',
                 'initial_deposit' => 10000
-            ]
+            ],
+            [
+                'last_name' => 'Aparicio',
+                'first_name' => 'Denice Jane',
+                'middle_name' => 'Bautista',
+                'address' => 'Centro 2. Baogo, Inabanga, Bohol',
+                'birth_date' => '2002-7-8',
+                'phone_number' => '09606765143',
+                'email' => 'denicejaneaparicio1402@gmail.com',
+                'initial_deposit' => 10000
+            ],
+            [
+                'last_name' => 'Mejias II',
+                'first_name' => 'Francis Michael II',
+                'middle_name' => 'Cabrera II',
+                'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+                'birth_date' => '2002-7-8',
+                'phone_number' => '09606765143',
+                'email' => 'mejiasforfacebook@gmail.com',
+                'initial_deposit' => 10000
+            ],
+
+
+
+
+            [
+                'last_name' => 'Dupa',
+                'first_name' => 'Kristin',
+                'middle_name' => 'Sample',
+                'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+                'birth_date' => '2002-7-8',
+                'phone_number' => '09606765143',
+                'email' => 'dupakristine96@gmail.com',
+                'initial_deposit' => 10000
+            ],
+            [
+                'last_name' => 'Mueblas',
+                'first_name' => 'Mark Lster',
+                'middle_name' => 'Elle',
+                'address' => 'Purok 4. Cagayan, Inabanga, Bohol',
+                'birth_date' => '2002-7-8',
+                'phone_number' => '09606765143',
+                'email' => 'marklistermueblas3@gmail.com',
+                'initial_deposit' => 10000
+            ],
+
+
+            // [
+            //     'last_name' => 'Mejias',
+            //     'first_name' => 'Francis Michael',
+            //     'middle_name' => 'Cabrera',
+            //     'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+            //     'birth_date' => '2002-7-8',
+            //     'phone_number' => '09606765143',
+            //     'email' => 'mikoremixes@gmail.com',
+            //     'initial_deposit' => 10000
+            // ],
+
+
+            // [
+            //     'last_name' => 'Mejias',
+            //     'first_name' => 'Francis Michael',
+            //     'middle_name' => 'Cabrera',
+            //     'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+            //     'birth_date' => '2002-7-8',
+            //     'phone_number' => '09606765143',
+            //     'email' => 'mikoremixes@gmail.com',
+            //     'initial_deposit' => 10000
+            // ],
+
+
+
+            // [
+            //     'last_name' => 'Mejias',
+            //     'first_name' => 'Francis Michael',
+            //     'middle_name' => 'Cabrera',
+            //     'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+            //     'birth_date' => '2002-7-8',
+            //     'phone_number' => '09606765143',
+            //     'email' => 'mikoremixes@gmail.com',
+            //     'initial_deposit' => 10000
+            // ],
+
+
+
+            // [
+            //     'last_name' => 'Mejias',
+            //     'first_name' => 'Francis Michael',
+            //     'middle_name' => 'Cabrera',
+            //     'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+            //     'birth_date' => '2002-7-8',
+            //     'phone_number' => '09606765143',
+            //     'email' => 'mikoremixes@gmail.com',
+            //     'initial_deposit' => 10000
+            // ],
+
+
+            // [
+            //     'last_name' => 'Mejias',
+            //     'first_name' => 'Francis Michael',
+            //     'middle_name' => 'Cabrera',
+            //     'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+            //     'birth_date' => '2002-7-8',
+            //     'phone_number' => '09606765143',
+            //     'email' => 'mikoremixes@gmail.com',
+            //     'initial_deposit' => 10000
+            // ],
+
 
         ];
 
