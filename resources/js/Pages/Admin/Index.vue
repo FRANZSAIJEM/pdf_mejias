@@ -43,15 +43,15 @@ const props = defineProps({
                 <div class="p-4 rounded-lg w-1/4">
                     <h1 class="text-2xl mb-10">Send message to all clients</h1>
                     <form @submit.prevent="submit">
-                        <div class="items-start space-x-2 mb-10">
-                            <label for="subject"><b>Subject:</b> &nbsp;&nbsp;</label>
-                            <input v-model="form.subject" type="text" id="subject" class="px-2 py-1 rounded-md">
+                        <div class=" mb-10">
+                            <label for="subject" class="text-4xl"><b>Subject:</b> &nbsp;&nbsp;</label> <br> <br>
+                            <input v-model="form.subject" type="text" id="subject" class="px-2 py-1 w-full rounded-md">
                         </div>
-                        <div class="items-start space-x-2 mb-4">
-                            <label for="message"><b>Message:</b> </label>
+                        <div class=" mb-10">
+                            <label for="message" class="text-4xl"><b>Message:</b> </label> <br> <br>
                             <textarea v-model="form.message" type="text" id="message" class="px-2 py-1 h-[120px] w-full rounded-md"></textarea>
                         </div>
-                        <div class="flex justify-end">
+                        <div class="flex justify-start">
                             <button type="submit" class="text-white px-4 py-1.5 rounded-md bg-green-600">Send mail</button>
                         </div>
                     </form>

@@ -13,7 +13,7 @@ class ClientSeeder extends Seeder
      */
     public function run(): void
     {
-        Client::factory(30)->create();
+
         $cl = [
             [
                 'last_name' => 'Mejias',
@@ -81,66 +81,56 @@ class ClientSeeder extends Seeder
             ],
 
 
-            // [
-            //     'last_name' => 'Mejias',
-            //     'first_name' => 'Francis Michael',
-            //     'middle_name' => 'Cabrera',
-            //     'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
-            //     'birth_date' => '2002-7-8',
-            //     'phone_number' => '09606765143',
-            //     'email' => 'mikoremixes@gmail.com',
-            //     'initial_deposit' => 10000
-            // ],
+            [
+                'last_name' => 'Mejias',
+                'first_name' => 'Francis Michael',
+                'middle_name' => 'Cabrera',
+                'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+                'birth_date' => '2002-7-8',
+                'phone_number' => '09606765143',
+                'email' => 'fross0988@gmail.com',
+                'initial_deposit' => 10000
+            ],
 
 
-            // [
-            //     'last_name' => 'Mejias',
-            //     'first_name' => 'Francis Michael',
-            //     'middle_name' => 'Cabrera',
-            //     'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
-            //     'birth_date' => '2002-7-8',
-            //     'phone_number' => '09606765143',
-            //     'email' => 'mikoremixes@gmail.com',
-            //     'initial_deposit' => 10000
-            // ],
-
-
-
-            // [
-            //     'last_name' => 'Mejias',
-            //     'first_name' => 'Francis Michael',
-            //     'middle_name' => 'Cabrera',
-            //     'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
-            //     'birth_date' => '2002-7-8',
-            //     'phone_number' => '09606765143',
-            //     'email' => 'mikoremixes@gmail.com',
-            //     'initial_deposit' => 10000
-            // ],
+            [
+                'last_name' => 'Villarmia',
+                'first_name' => 'Ace Joy',
+                'middle_name' => 'Cabrera',
+                'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+                'birth_date' => '2002-7-8',
+                'phone_number' => '09606765143',
+                'email' => 'nawgbakiacejoy123@gmail.com',
+                'initial_deposit' => 10000
+            ],
 
 
 
-            // [
-            //     'last_name' => 'Mejias',
-            //     'first_name' => 'Francis Michael',
-            //     'middle_name' => 'Cabrera',
-            //     'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
-            //     'birth_date' => '2002-7-8',
-            //     'phone_number' => '09606765143',
-            //     'email' => 'mikoremixes@gmail.com',
-            //     'initial_deposit' => 10000
-            // ],
+            [
+                'last_name' => 'Angco',
+                'first_name' => 'Girlie Jean',
+                'middle_name' => 'Sample',
+                'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
+                'birth_date' => '2002-7-8',
+                'phone_number' => '09606765143',
+                'email' => 'girlyjeanfuentesangco@gmail.com',
+                'initial_deposit' => 10000
+            ],
 
 
-            // [
-            //     'last_name' => 'Mejias',
-            //     'first_name' => 'Francis Michael',
-            //     'middle_name' => 'Cabrera',
-            //     'address' => 'Purok 2. Cagayan, Inabanga, Bohol',
-            //     'birth_date' => '2002-7-8',
-            //     'phone_number' => '09606765143',
-            //     'email' => 'mikoremixes@gmail.com',
-            //     'initial_deposit' => 10000
-            // ],
+
+            [
+                'last_name' => 'Lenteria',
+                'first_name' => 'Angela',
+                'middle_name' => 'Lentrix',
+                'address' => 'Purok 6. Cagayan, Inabanga, Bohol',
+                'birth_date' => '2002-7-8',
+                'phone_number' => '09606765143',
+                'email' => 'angelacecilialenteria99@gmail.com',
+                'initial_deposit' => 10000
+            ],
+
+
 
 
         ];

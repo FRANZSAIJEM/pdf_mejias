@@ -1,12 +1,12 @@
-<h4>
+<h2>
     MDC BANK, Inc. <br>
     Cabulijan, Tubigon, Bohol
-</h4>
+</h2>
 
 
 
 <p>
-    Hello,
+    Good day,
 </p>
 
 <p>
